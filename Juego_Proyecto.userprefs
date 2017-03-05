@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\detenerMusica.cs">
+    <Files>
+      <File FileName="Assets\Script\Music.cs" Line="8" Column="46" />
+      <File FileName="Assets\Script\controlador.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\puntos.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\gameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\JuegoOffline.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\mainScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\inicio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\login.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\sendScore.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\detenerMusica.cs" Line="8" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
